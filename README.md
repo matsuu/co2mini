@@ -13,7 +13,6 @@ macOS
 
 ```
 brew install hidapi golang
-
 ```
 
 ## Build
